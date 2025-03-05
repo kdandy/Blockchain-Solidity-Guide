@@ -1,6 +1,8 @@
 # Solidity Essentials (Indonesian Version)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="100" alt="Solidity Logo">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="100" alt="Solidity Logo">
+</p>
 
 ## 📌 Overview
 **Solidity Essentials** is a complete guide to learning smart contracts on Ethereum using Solidity, from the basics to best practices. 🚀
